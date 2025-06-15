@@ -1,6 +1,6 @@
 ---
 title: "Daily Bugle's Writeup"
-date: 14:05:2025
+date: 2025:06:14
 categories: [CyberSecurity]
 tags: [Writeup]
 ---
